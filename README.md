@@ -389,7 +389,7 @@ To perform detailed network scanning involving service detection, operating syst
 - Open ports and associated services were examined.
 
 **Evidence:**
-![Zenmap intense scan Result](NmapOutput.png)
+![Zenmap intense scan Result](nmapp.png)
 
 
 ---
@@ -408,7 +408,7 @@ To examine discovered hosts, open ports, and associated services through Zenmap'
 - The interface made it easier to review exposed services.
 
 **Evidence:**
-![Zenmap ports and hosts Result](host.png)
+![Zenmap ports and hosts Result](ports.png)
 
 
 ---
@@ -445,7 +445,7 @@ To examine discovered host information and operating system detection results.
 - Host details were presented in a centralized interface.
 
 **Evidence:**
-![Zenmap host Result](Hostdetails.png)
+![Zenmap host Result](host.png)
 
 
 ---
