@@ -351,7 +351,7 @@ Open ports indicate services accessible through the network.
 Identifying exposed services helps security professionals evaluate the attack surface and determine whether unnecessary services should be disabled.
 
 **Evidence:**
-![NMAP Scan Result](nmap.jpeg)
+![NMAP Scan Result](nmap.png)
 
 
 ---
@@ -389,7 +389,7 @@ To perform detailed network scanning involving service detection, operating syst
 - Open ports and associated services were examined.
 
 **Evidence:**
-![Zenmap intense scan Result](nmap.png)
+![Zenmap intense scan Result](NmapOutput.png)
 
 
 ---
