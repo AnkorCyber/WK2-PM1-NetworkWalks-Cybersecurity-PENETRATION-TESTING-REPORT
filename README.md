@@ -426,7 +426,7 @@ To visualize the network path between the scanning machine and the target.
 - The graphical representation provided a clearer understanding of the route to the target.
 
 **Evidence:**
-![Zenmap topology Result](Topology.png)
+![Zenmap topology Result](topology.png)
 
 
 ---
